@@ -17,7 +17,6 @@ namespace Essai.Model
         public int nbraime { get; set; }
 
         public int nbrdesaime { get; set; }
-
-        public String commente { get; set; }
+        
     }
 }
