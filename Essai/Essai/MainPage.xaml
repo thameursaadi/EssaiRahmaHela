@@ -8,6 +8,6 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-
+        <Button Content="let's start" FontSize="30" Background="Green" Foreground="White" Height="70" Width="300"/>
     </Grid>
 </Page>
