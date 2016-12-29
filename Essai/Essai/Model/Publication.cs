@@ -14,9 +14,9 @@ namespace Essai.Model
 
         public String image { get; set; }
 
-        public int like { get; set; }
+        public int nbraime { get; set; }
 
-        public int deslike { get; set; }
+        public int nbrdesaime { get; set; }
 
         public String commente { get; set; }
     }
